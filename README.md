@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Ocee1
-- 👀 I’m interested in web development, Blockchain development and cloud computing
-- 🌱 I’m currently learning backend development with python
-- 💞️ I’m looking to collaborate on projects as well as ideas.
+- 🌱 I’m a backend developer
+- 👀 I’m interested in Blockchain development, AI and cloud computing
+- Stack: JavaScript, node.js, express, mongoDB, MySql, Redis, Python, HTML, CSS, TypeScript
+- I’m looking to collaborate on projects as well as ideas.
 - 📫 How to reach me, ocjay24@gmail.com
 
 <!---
